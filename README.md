@@ -1,6 +1,6 @@
 # Poodle
 
-This repository contains the implementation of the paper [POODLE: Improving Few-shot Learning via Penalizing Out-of-Distribution Samples]().
+This repository contains the implementation of the paper [POODLE: Improving Few-shot Learning via Penalizing Out-of-Distribution Samples](https://arxiv.org/abs/2206.04679).
 
 [Duong H. Le\*](https://lehduong.github.io), [Khoi D. Nguyen\*](https://khoiucd.github.io), [Khoi Nguyen](https://nguyenducminhkhoi.com), [Quoc-Huy Tran](https://cs.adelaide.edu.au/~huy/home.php), [Rang Nguyen](https://sites.google.com/site/rangmanhonguyen/), [Binh-Son Hua](https://sonhua.github.io) (NeurIPS 2021)
 
@@ -41,7 +41,7 @@ In this work, we propose to use out-of-distribution samples, i.e., unlabeled sam
 
 3. Run `init.sh` to preprocess all data.
 
-After these steps, the your folder should be organized as follow:
+After these steps, your folder should be organized as follow:
 
 ```
 results/
